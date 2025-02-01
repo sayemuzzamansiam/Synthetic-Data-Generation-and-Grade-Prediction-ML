@@ -1,0 +1,101 @@
+studentId,name,cgpa,age,gender,attendance,academicStanding
+318,Student318,2.29,22,Male,87.2,Probationary
+425,Student425,3.34,21,Male,96.4,Good Standing
+715,Student715,2.50,18,Male,86.7,Probationary
+705,Student705,4.00,23,Male,97.3,Dean's List
+876,Student876,1.50,21,Female,81.4,Academic Warning
+521,Student521,4.00,20,Female,95.4,Dean's List
+758,Student758,2.02,22,Male,83.8,Probationary
+827,Student827,3.94,21,Female,97.7,Dean's List
+561,Student561,2.54,20,Male,85.4,Probationary
+838,Student838,3.13,24,Male,91.6,Good Standing
+100,Student100,2.33,23,Male,90.6,Probationary
+532,Student532,2.65,22,Male,89.1,Probationary
+127,Student127,2.38,22,Male,91.6,Probationary
+265,Student265,2.24,20,Female,84.9,Probationary
+548,Student548,3.90,21,Female,91.4,Dean's List
+353,Student353,3.04,20,Male,90.7,Good Standing
+938,Student938,3.15,22,Female,92.3,Good Standing
+658,Student658,2.36,20,Male,85.6,Probationary
+464,Student464,3.18,18,Male,89.2,Good Standing
+226,Student226,3.33,18,Female,87.3,Good Standing
+619,Student619,3.81,22,Male,97.2,Dean's List
+247,Student247,3.18,18,Female,88.5,Good Standing
+798,Student798,2.63,24,Male,87.8,Probationary
+841,Student841,3.48,21,Female,92.7,Good Standing
+906,Student906,3.21,20,Female,89.0,Good Standing
+108,Student108,2.09,20,Female,85.7,Probationary
+520,Student520,2.73,19,Female,90.5,Probationary
+933,Student933,2.91,19,Female,94.4,Probationary
+211,Student211,2.80,24,Female,93.3,Probationary
+554,Student554,2.80,19,Female,84.1,Probationary
+765,Student765,2.16,21,Male,84.6,Probationary
+161,Student161,1.72,24,Female,82.7,Academic Warning
+830,Student830,2.91,18,Male,91.6,Probationary
+591,Student591,2.44,18,Female,86.4,Probationary
+391,Student391,2.50,24,Female,90.3,Probationary
+921,Student921,2.44,19,Male,86.4,Probationary
+631,Student631,2.57,19,Female,91.3,Probationary
+183,Student183,2.05,18,Female,83.5,Probationary
+313,Student313,1.50,18,Female,81.3,Academic Warning
+190,Student190,1.97,24,Female,87.5,Academic Warning
+645,Student645,3.38,20,Female,93.0,Good Standing
+381,Student381,3.02,19,Male,92.8,Good Standing
+143,Student143,3.25,20,Male,93.1,Good Standing
+976,Student976,2.00,21,Male,83.2,Academic Warning
+451,Student451,2.54,24,Male,82.8,Probationary
+230,Student230,2.52,24,Male,88.3,Probationary
+280,Student280,3.61,24,Female,93.4,Dean's List
+471,Student471,2.36,21,Female,90.5,Probationary
+443,Student443,3.40,19,Male,94.1,Good Standing
+677,Student677,2.59,23,Male,84.5,Probationary
+980,Student980,3.13,20,Male,88.4,Good Standing
+502,Student502,3.03,19,Female,94.8,Good Standing
+871,Student871,3.59,21,Female,93.0,Dean's List
+892,Student892,3.53,20,Female,88.9,Dean's List
+629,Student629,3.17,24,Female,95.1,Good Standing
+996,Student996,2.40,23,Male,89.4,Probationary
+170,Student170,3.18,20,Male,89.0,Good Standing
+233,Student233,2.99,18,Female,87.1,Probationary
+572,Student572,4.00,18,Female,97.8,Dean's List
+972,Student972,1.77,19,Male,85.5,Academic Warning
+350,Student350,2.73,18,Male,88.9,Probationary
+109,Student109,2.44,19,Female,88.3,Probationary
+206,Student206,4.00,18,Female,99.0,Dean's List
+609,Student609,3.24,24,Male,96.0,Good Standing
+274,Student274,3.65,23,Female,97.0,Dean's List
+163,Student163,2.67,24,Male,85.6,Probationary
+376,Student376,2.34,18,Male,84.5,Probationary
+559,Student559,2.97,20,Female,88.2,Probationary
+874,Student874,2.25,18,Male,86.5,Probationary
+246,Student246,1.50,22,Female,81.5,Academic Warning
+542,Student542,3.53,18,Male,88.8,Dean's List
+126,Student126,2.54,24,Female,83.3,Probationary
+746,Student746,3.61,20,Female,94.1,Dean's List
+357,Student357,2.27,19,Male,86.7,Probationary
+776,Student776,3.31,22,Female,90.3,Good Standing
+459,Student459,2.81,20,Female,89.3,Probationary
+179,Student179,1.78,23,Female,86.9,Academic Warning
+698,Student698,3.51,21,Male,95.2,Dean's List
+932,Student932,2.56,22,Female,85.6,Probationary
+426,Student426,2.09,22,Male,87.8,Probationary
+923,Student923,3.14,21,Female,91.9,Good Standing
+562,Student562,2.93,19,Female,87.1,Probationary
+719,Student719,1.82,22,Female,82.8,Academic Warning
+216,Student216,3.61,19,Female,95.3,Dean's List
+277,Student277,2.23,21,Female,89.7,Probationary
+564,Student564,1.92,22,Female,80.0,Academic Warning
+949,Student949,2.62,20,Male,91.8,Probationary
+272,Student272,3.38,24,Male,91.3,Good Standing
+474,Student474,3.24,18,Female,93.9,Good Standing
+946,Student946,3.95,23,Female,93.5,Dean's List
+649,Student649,2.93,18,Male,88.6,Probationary
+595,Student595,3.71,19,Male,97.0,Dean's List
+299,Student299,2.15,20,Female,90.5,Probationary
+894,Student894,2.58,20,Female,87.4,Probationary
+852,Student852,2.77,22,Female,86.1,Probationary
+364,Student364,3.49,22,Female,90.3,Good Standing
+600,Student600,1.50,23,Female,82.9,Academic Warning
+925,Student925,1.56,22,Male,81.7,Academic Warning
+563,Student563,2.55,24,Male,88.9,Probationary
+926,Student926,3.32,18,Female,87.4,Good Standing
