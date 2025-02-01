@@ -1,0 +1,401 @@
+studentId,courseId,grade,semester,department
+318,CSE101,3.05,Fall 2023,Computer Science
+318,MAT101,2.33,Fall 2023,Mathematics
+318,ENG201,3.53,Spring 2024,Humanities
+318,CSE102,2.51,Spring 2024,Computer Science
+425,MAT101,3.08,Fall 2023,Mathematics
+425,CSE101,3.53,Fall 2023,Computer Science
+425,CSE102,3.81,Spring 2024,Computer Science
+425,ENG201,3.93,Spring 2024,Humanities
+715,CSE101,2.98,Fall 2023,Computer Science
+715,MAT101,2.51,Fall 2023,Mathematics
+715,CSE102,2.83,Spring 2024,Computer Science
+715,ENG201,3.61,Spring 2024,Humanities
+705,CSE101,4.00,Fall 2023,Computer Science
+705,MAT101,3.97,Fall 2023,Mathematics
+705,ENG201,4.00,Spring 2024,Humanities
+705,CSE102,3.99,Spring 2024,Computer Science
+876,CSE101,2.16,Fall 2023,Computer Science
+876,MAT101,1.70,Fall 2023,Mathematics
+876,CSE102,1.90,Spring 2024,Computer Science
+876,ENG201,2.99,Spring 2024,Humanities
+521,MAT101,3.97,Fall 2023,Mathematics
+521,CSE101,4.00,Fall 2023,Computer Science
+521,CSE102,4.00,Spring 2024,Computer Science
+521,ENG201,4.00,Spring 2024,Humanities
+758,CSE101,2.95,Fall 2023,Computer Science
+758,MAT101,2.34,Fall 2023,Mathematics
+758,CSE102,2.25,Spring 2024,Computer Science
+758,ENG201,3.23,Spring 2024,Humanities
+827,CSE101,4.00,Fall 2023,Computer Science
+827,MAT101,4.00,Fall 2023,Mathematics
+827,CSE102,4.00,Spring 2024,Computer Science
+827,ENG201,4.00,Spring 2024,Humanities
+561,MAT101,2.75,Fall 2023,Mathematics
+561,CSE101,3.04,Fall 2023,Computer Science
+561,ENG201,3.62,Spring 2024,Humanities
+561,CSE102,3.00,Spring 2024,Computer Science
+838,CSE101,3.43,Fall 2023,Computer Science
+838,MAT101,3.04,Fall 2023,Mathematics
+838,CSE102,3.43,Spring 2024,Computer Science
+838,ENG201,4.00,Spring 2024,Humanities
+100,MAT101,2.88,Fall 2023,Mathematics
+100,CSE101,3.05,Fall 2023,Computer Science
+100,ENG201,3.43,Spring 2024,Humanities
+100,CSE102,2.89,Spring 2024,Computer Science
+532,CSE101,2.93,Fall 2023,Computer Science
+532,MAT101,2.87,Fall 2023,Mathematics
+532,ENG201,3.43,Spring 2024,Humanities
+532,CSE102,2.68,Spring 2024,Computer Science
+127,CSE101,3.12,Fall 2023,Computer Science
+127,MAT101,2.75,Fall 2023,Mathematics
+127,ENG201,3.34,Spring 2024,Humanities
+127,CSE102,2.59,Spring 2024,Computer Science
+265,MAT101,2.58,Fall 2023,Mathematics
+265,CSE101,2.75,Fall 2023,Computer Science
+265,ENG201,3.02,Spring 2024,Humanities
+265,CSE102,2.85,Spring 2024,Computer Science
+548,MAT101,3.64,Fall 2023,Mathematics
+548,CSE101,4.00,Fall 2023,Computer Science
+548,CSE102,4.00,Spring 2024,Computer Science
+548,ENG201,4.00,Spring 2024,Humanities
+353,CSE101,3.59,Fall 2023,Computer Science
+353,MAT101,3.03,Fall 2023,Mathematics
+353,CSE102,3.28,Spring 2024,Computer Science
+353,ENG201,4.00,Spring 2024,Humanities
+938,CSE101,3.74,Fall 2023,Computer Science
+938,MAT101,3.00,Fall 2023,Mathematics
+938,ENG201,4.00,Spring 2024,Humanities
+938,CSE102,3.38,Spring 2024,Computer Science
+658,CSE101,3.22,Fall 2023,Computer Science
+658,MAT101,2.26,Fall 2023,Mathematics
+658,CSE102,2.72,Spring 2024,Computer Science
+658,ENG201,3.60,Spring 2024,Humanities
+464,MAT101,3.23,Fall 2023,Mathematics
+464,CSE101,3.56,Fall 2023,Computer Science
+464,ENG201,3.74,Spring 2024,Humanities
+464,CSE102,3.21,Spring 2024,Computer Science
+226,CSE101,3.27,Fall 2023,Computer Science
+226,MAT101,3.43,Fall 2023,Mathematics
+226,CSE102,3.24,Spring 2024,Computer Science
+226,ENG201,3.86,Spring 2024,Humanities
+619,CSE101,4.00,Fall 2023,Computer Science
+619,MAT101,3.91,Fall 2023,Mathematics
+619,ENG201,4.00,Spring 2024,Humanities
+619,CSE102,3.85,Spring 2024,Computer Science
+247,CSE101,3.55,Fall 2023,Computer Science
+247,MAT101,3.37,Fall 2023,Mathematics
+247,CSE102,3.18,Spring 2024,Computer Science
+247,ENG201,4.00,Spring 2024,Humanities
+798,MAT101,2.87,Fall 2023,Mathematics
+798,CSE101,3.02,Fall 2023,Computer Science
+798,CSE102,2.69,Spring 2024,Computer Science
+798,ENG201,3.46,Spring 2024,Humanities
+841,MAT101,3.34,Fall 2023,Mathematics
+841,CSE101,3.85,Fall 2023,Computer Science
+841,CSE102,3.73,Spring 2024,Computer Science
+841,ENG201,4.00,Spring 2024,Humanities
+906,MAT101,3.15,Fall 2023,Mathematics
+906,CSE101,3.27,Fall 2023,Computer Science
+906,ENG201,3.94,Spring 2024,Humanities
+906,CSE102,3.59,Spring 2024,Computer Science
+108,CSE101,2.89,Fall 2023,Computer Science
+108,MAT101,2.50,Fall 2023,Mathematics
+108,CSE102,2.71,Spring 2024,Computer Science
+108,ENG201,3.46,Spring 2024,Humanities
+520,MAT101,2.59,Fall 2023,Mathematics
+520,CSE101,3.38,Fall 2023,Computer Science
+520,ENG201,3.41,Spring 2024,Humanities
+520,CSE102,3.15,Spring 2024,Computer Science
+933,CSE101,3.23,Fall 2023,Computer Science
+933,MAT101,3.16,Fall 2023,Mathematics
+933,ENG201,3.62,Spring 2024,Humanities
+933,CSE102,3.13,Spring 2024,Computer Science
+211,MAT101,2.90,Fall 2023,Mathematics
+211,CSE101,3.40,Fall 2023,Computer Science
+211,ENG201,3.54,Spring 2024,Humanities
+211,CSE102,3.07,Spring 2024,Computer Science
+554,MAT101,2.71,Fall 2023,Mathematics
+554,CSE101,2.88,Fall 2023,Computer Science
+554,CSE102,2.79,Spring 2024,Computer Science
+554,ENG201,3.32,Spring 2024,Humanities
+765,MAT101,2.20,Fall 2023,Mathematics
+765,CSE101,2.72,Fall 2023,Computer Science
+765,CSE102,2.45,Spring 2024,Computer Science
+765,ENG201,3.28,Spring 2024,Humanities
+161,MAT101,2.24,Fall 2023,Mathematics
+161,CSE101,2.25,Fall 2023,Computer Science
+161,CSE102,2.47,Spring 2024,Computer Science
+161,ENG201,3.00,Spring 2024,Humanities
+830,CSE101,3.52,Fall 2023,Computer Science
+830,MAT101,3.18,Fall 2023,Mathematics
+830,ENG201,3.89,Spring 2024,Humanities
+830,CSE102,3.31,Spring 2024,Computer Science
+591,CSE101,3.06,Fall 2023,Computer Science
+591,MAT101,2.69,Fall 2023,Mathematics
+591,CSE102,2.99,Spring 2024,Computer Science
+591,ENG201,3.20,Spring 2024,Humanities
+391,MAT101,2.78,Fall 2023,Mathematics
+391,CSE101,2.86,Fall 2023,Computer Science
+391,CSE102,2.95,Spring 2024,Computer Science
+391,ENG201,3.75,Spring 2024,Humanities
+921,MAT101,2.70,Fall 2023,Mathematics
+921,CSE101,3.01,Fall 2023,Computer Science
+921,CSE102,2.85,Spring 2024,Computer Science
+921,ENG201,3.16,Spring 2024,Humanities
+631,CSE101,3.03,Fall 2023,Computer Science
+631,MAT101,2.78,Fall 2023,Mathematics
+631,ENG201,3.47,Spring 2024,Humanities
+631,CSE102,3.21,Spring 2024,Computer Science
+183,MAT101,2.23,Fall 2023,Mathematics
+183,CSE101,2.82,Fall 2023,Computer Science
+183,CSE102,2.74,Spring 2024,Computer Science
+183,ENG201,3.12,Spring 2024,Humanities
+313,CSE101,2.62,Fall 2023,Computer Science
+313,MAT101,2.09,Fall 2023,Mathematics
+313,CSE102,2.09,Spring 2024,Computer Science
+313,ENG201,2.86,Spring 2024,Humanities
+190,CSE101,2.74,Fall 2023,Computer Science
+190,MAT101,2.31,Fall 2023,Mathematics
+190,CSE102,2.65,Spring 2024,Computer Science
+190,ENG201,3.07,Spring 2024,Humanities
+645,MAT101,3.21,Fall 2023,Mathematics
+645,CSE101,3.64,Fall 2023,Computer Science
+645,ENG201,4.00,Spring 2024,Humanities
+645,CSE102,3.56,Spring 2024,Computer Science
+381,CSE101,3.73,Fall 2023,Computer Science
+381,MAT101,2.94,Fall 2023,Mathematics
+381,ENG201,3.77,Spring 2024,Humanities
+381,CSE102,3.54,Spring 2024,Computer Science
+143,MAT101,3.09,Fall 2023,Mathematics
+143,CSE101,3.50,Fall 2023,Computer Science
+143,ENG201,4.00,Spring 2024,Humanities
+143,CSE102,3.63,Spring 2024,Computer Science
+976,MAT101,2.42,Fall 2023,Mathematics
+976,CSE101,2.75,Fall 2023,Computer Science
+976,ENG201,3.13,Spring 2024,Humanities
+976,CSE102,2.18,Spring 2024,Computer Science
+451,MAT101,2.35,Fall 2023,Mathematics
+451,CSE101,3.13,Fall 2023,Computer Science
+451,CSE102,2.79,Spring 2024,Computer Science
+451,ENG201,3.70,Spring 2024,Humanities
+230,MAT101,2.80,Fall 2023,Mathematics
+230,CSE101,2.89,Fall 2023,Computer Science
+230,CSE102,2.97,Spring 2024,Computer Science
+230,ENG201,3.75,Spring 2024,Humanities
+280,MAT101,3.73,Fall 2023,Mathematics
+280,CSE101,4.00,Fall 2023,Computer Science
+280,CSE102,3.97,Spring 2024,Computer Science
+280,ENG201,4.00,Spring 2024,Humanities
+471,CSE101,3.03,Fall 2023,Computer Science
+471,MAT101,2.60,Fall 2023,Mathematics
+471,CSE102,2.91,Spring 2024,Computer Science
+471,ENG201,3.69,Spring 2024,Humanities
+443,MAT101,3.18,Fall 2023,Mathematics
+443,CSE101,3.63,Fall 2023,Computer Science
+443,ENG201,4.00,Spring 2024,Humanities
+443,CSE102,3.76,Spring 2024,Computer Science
+677,CSE101,3.12,Fall 2023,Computer Science
+677,MAT101,2.74,Fall 2023,Mathematics
+677,CSE102,2.66,Spring 2024,Computer Science
+677,ENG201,3.56,Spring 2024,Humanities
+980,MAT101,3.01,Fall 2023,Mathematics
+980,CSE101,3.56,Fall 2023,Computer Science
+980,ENG201,4.00,Spring 2024,Humanities
+980,CSE102,3.30,Spring 2024,Computer Science
+502,MAT101,2.89,Fall 2023,Mathematics
+502,CSE101,3.33,Fall 2023,Computer Science
+502,CSE102,3.08,Spring 2024,Computer Science
+502,ENG201,3.81,Spring 2024,Humanities
+871,CSE101,3.92,Fall 2023,Computer Science
+871,MAT101,4.00,Fall 2023,Mathematics
+871,ENG201,4.00,Spring 2024,Humanities
+871,CSE102,3.64,Spring 2024,Computer Science
+892,CSE101,3.78,Fall 2023,Computer Science
+892,MAT101,3.63,Fall 2023,Mathematics
+892,CSE102,3.75,Spring 2024,Computer Science
+892,ENG201,4.00,Spring 2024,Humanities
+629,MAT101,3.47,Fall 2023,Mathematics
+629,CSE101,3.56,Fall 2023,Computer Science
+629,CSE102,3.58,Spring 2024,Computer Science
+629,ENG201,4.00,Spring 2024,Humanities
+996,MAT101,2.35,Fall 2023,Mathematics
+996,CSE101,2.84,Fall 2023,Computer Science
+996,ENG201,3.26,Spring 2024,Humanities
+996,CSE102,2.93,Spring 2024,Computer Science
+170,CSE101,3.68,Fall 2023,Computer Science
+170,MAT101,2.83,Fall 2023,Mathematics
+170,CSE102,3.44,Spring 2024,Computer Science
+170,ENG201,4.00,Spring 2024,Humanities
+233,CSE101,3.58,Fall 2023,Computer Science
+233,MAT101,2.96,Fall 2023,Mathematics
+233,ENG201,3.95,Spring 2024,Humanities
+233,CSE102,3.24,Spring 2024,Computer Science
+572,MAT101,3.81,Fall 2023,Mathematics
+572,CSE101,4.00,Fall 2023,Computer Science
+572,CSE102,4.00,Spring 2024,Computer Science
+572,ENG201,4.00,Spring 2024,Humanities
+972,MAT101,2.26,Fall 2023,Mathematics
+972,CSE101,2.84,Fall 2023,Computer Science
+972,CSE102,2.41,Spring 2024,Computer Science
+972,ENG201,3.02,Spring 2024,Humanities
+350,CSE101,3.39,Fall 2023,Computer Science
+350,MAT101,2.77,Fall 2023,Mathematics
+350,ENG201,3.58,Spring 2024,Humanities
+350,CSE102,3.14,Spring 2024,Computer Science
+109,MAT101,2.45,Fall 2023,Mathematics
+109,CSE101,3.27,Fall 2023,Computer Science
+109,CSE102,2.97,Spring 2024,Computer Science
+109,ENG201,3.76,Spring 2024,Humanities
+206,MAT101,3.83,Fall 2023,Mathematics
+206,CSE101,4.00,Fall 2023,Computer Science
+206,ENG201,4.00,Spring 2024,Humanities
+206,CSE102,4.00,Spring 2024,Computer Science
+609,CSE101,3.90,Fall 2023,Computer Science
+609,MAT101,2.98,Fall 2023,Mathematics
+609,ENG201,4.00,Spring 2024,Humanities
+609,CSE102,3.30,Spring 2024,Computer Science
+274,CSE101,3.97,Fall 2023,Computer Science
+274,MAT101,3.94,Fall 2023,Mathematics
+274,CSE102,4.00,Spring 2024,Computer Science
+274,ENG201,4.00,Spring 2024,Humanities
+163,MAT101,2.60,Fall 2023,Mathematics
+163,CSE101,3.19,Fall 2023,Computer Science
+163,ENG201,3.34,Spring 2024,Humanities
+163,CSE102,2.64,Spring 2024,Computer Science
+376,CSE101,2.66,Fall 2023,Computer Science
+376,MAT101,2.63,Fall 2023,Mathematics
+376,CSE102,2.93,Spring 2024,Computer Science
+376,ENG201,3.45,Spring 2024,Humanities
+559,MAT101,2.75,Fall 2023,Mathematics
+559,CSE101,3.47,Fall 2023,Computer Science
+559,ENG201,3.69,Spring 2024,Humanities
+559,CSE102,2.98,Spring 2024,Computer Science
+874,CSE101,2.99,Fall 2023,Computer Science
+874,MAT101,2.70,Fall 2023,Mathematics
+874,CSE102,2.77,Spring 2024,Computer Science
+874,ENG201,3.51,Spring 2024,Humanities
+246,CSE101,2.55,Fall 2023,Computer Science
+246,MAT101,2.19,Fall 2023,Mathematics
+246,CSE102,2.07,Spring 2024,Computer Science
+246,ENG201,2.76,Spring 2024,Humanities
+542,MAT101,3.75,Fall 2023,Mathematics
+542,CSE101,4.00,Fall 2023,Computer Science
+542,CSE102,3.71,Spring 2024,Computer Science
+542,ENG201,4.00,Spring 2024,Humanities
+126,CSE101,2.79,Fall 2023,Computer Science
+126,MAT101,2.52,Fall 2023,Mathematics
+126,CSE102,2.99,Spring 2024,Computer Science
+126,ENG201,3.48,Spring 2024,Humanities
+746,CSE101,4.00,Fall 2023,Computer Science
+746,MAT101,3.96,Fall 2023,Mathematics
+746,ENG201,4.00,Spring 2024,Humanities
+746,CSE102,3.97,Spring 2024,Computer Science
+357,MAT101,2.53,Fall 2023,Mathematics
+357,CSE101,2.63,Fall 2023,Computer Science
+357,CSE102,2.90,Spring 2024,Computer Science
+357,ENG201,3.07,Spring 2024,Humanities
+776,MAT101,3.39,Fall 2023,Mathematics
+776,CSE101,3.66,Fall 2023,Computer Science
+776,ENG201,4.00,Spring 2024,Humanities
+776,CSE102,3.37,Spring 2024,Computer Science
+459,MAT101,2.90,Fall 2023,Mathematics
+459,CSE101,2.99,Fall 2023,Computer Science
+459,ENG201,3.45,Spring 2024,Humanities
+459,CSE102,3.28,Spring 2024,Computer Science
+179,CSE101,2.45,Fall 2023,Computer Science
+179,MAT101,2.18,Fall 2023,Mathematics
+179,CSE102,2.68,Spring 2024,Computer Science
+179,ENG201,3.21,Spring 2024,Humanities
+698,CSE101,4.00,Fall 2023,Computer Science
+698,MAT101,3.87,Fall 2023,Mathematics
+698,ENG201,4.00,Spring 2024,Humanities
+698,CSE102,3.70,Spring 2024,Computer Science
+932,CSE101,2.93,Fall 2023,Computer Science
+932,MAT101,2.72,Fall 2023,Mathematics
+932,ENG201,3.70,Spring 2024,Humanities
+932,CSE102,2.75,Spring 2024,Computer Science
+426,CSE101,2.78,Fall 2023,Computer Science
+426,MAT101,2.67,Fall 2023,Mathematics
+426,ENG201,3.15,Spring 2024,Humanities
+426,CSE102,2.52,Spring 2024,Computer Science
+923,CSE101,3.39,Fall 2023,Computer Science
+923,MAT101,3.10,Fall 2023,Mathematics
+923,CSE102,3.23,Spring 2024,Computer Science
+923,ENG201,4.00,Spring 2024,Humanities
+562,CSE101,3.08,Fall 2023,Computer Science
+562,MAT101,3.06,Fall 2023,Mathematics
+562,ENG201,3.48,Spring 2024,Humanities
+562,CSE102,2.96,Spring 2024,Computer Science
+719,CSE101,2.72,Fall 2023,Computer Science
+719,MAT101,2.34,Fall 2023,Mathematics
+719,CSE102,2.39,Spring 2024,Computer Science
+719,ENG201,3.12,Spring 2024,Humanities
+216,MAT101,3.94,Fall 2023,Mathematics
+216,CSE101,4.00,Fall 2023,Computer Science
+216,CSE102,4.00,Spring 2024,Computer Science
+216,ENG201,4.00,Spring 2024,Humanities
+277,CSE101,2.81,Fall 2023,Computer Science
+277,MAT101,2.47,Fall 2023,Mathematics
+277,CSE102,3.01,Spring 2024,Computer Science
+277,ENG201,3.24,Spring 2024,Humanities
+564,MAT101,2.15,Fall 2023,Mathematics
+564,CSE101,2.63,Fall 2023,Computer Science
+564,ENG201,2.76,Spring 2024,Humanities
+564,CSE102,2.50,Spring 2024,Computer Science
+949,CSE101,2.92,Fall 2023,Computer Science
+949,MAT101,2.69,Fall 2023,Mathematics
+949,ENG201,3.70,Spring 2024,Humanities
+949,CSE102,3.24,Spring 2024,Computer Science
+272,MAT101,2.99,Fall 2023,Mathematics
+272,CSE101,3.48,Fall 2023,Computer Science
+272,ENG201,3.95,Spring 2024,Humanities
+272,CSE102,3.34,Spring 2024,Computer Science
+474,MAT101,3.40,Fall 2023,Mathematics
+474,CSE101,3.91,Fall 2023,Computer Science
+474,ENG201,4.00,Spring 2024,Humanities
+474,CSE102,3.21,Spring 2024,Computer Science
+946,MAT101,3.64,Fall 2023,Mathematics
+946,CSE101,4.00,Fall 2023,Computer Science
+946,ENG201,4.00,Spring 2024,Humanities
+946,CSE102,4.00,Spring 2024,Computer Science
+649,CSE101,3.46,Fall 2023,Computer Science
+649,MAT101,2.65,Fall 2023,Mathematics
+649,ENG201,3.62,Spring 2024,Humanities
+649,CSE102,3.09,Spring 2024,Computer Science
+595,CSE101,4.00,Fall 2023,Computer Science
+595,MAT101,3.64,Fall 2023,Mathematics
+595,CSE102,4.00,Spring 2024,Computer Science
+595,ENG201,4.00,Spring 2024,Humanities
+299,MAT101,2.20,Fall 2023,Mathematics
+299,CSE101,2.94,Fall 2023,Computer Science
+299,CSE102,2.42,Spring 2024,Computer Science
+299,ENG201,3.58,Spring 2024,Humanities
+894,CSE101,3.15,Fall 2023,Computer Science
+894,MAT101,2.53,Fall 2023,Mathematics
+894,ENG201,3.83,Spring 2024,Humanities
+894,CSE102,2.77,Spring 2024,Computer Science
+852,CSE101,3.06,Fall 2023,Computer Science
+852,MAT101,2.75,Fall 2023,Mathematics
+852,ENG201,3.60,Spring 2024,Humanities
+852,CSE102,3.10,Spring 2024,Computer Science
+364,CSE101,3.76,Fall 2023,Computer Science
+364,MAT101,3.60,Fall 2023,Mathematics
+364,CSE102,3.59,Spring 2024,Computer Science
+364,ENG201,3.97,Spring 2024,Humanities
+600,CSE101,2.65,Fall 2023,Computer Science
+600,MAT101,2.24,Fall 2023,Mathematics
+600,ENG201,2.82,Spring 2024,Humanities
+600,CSE102,2.24,Spring 2024,Computer Science
+925,MAT101,2.21,Fall 2023,Mathematics
+925,CSE101,2.29,Fall 2023,Computer Science
+925,ENG201,2.75,Spring 2024,Humanities
+925,CSE102,2.27,Spring 2024,Computer Science
+563,MAT101,2.54,Fall 2023,Mathematics
+563,CSE101,3.02,Fall 2023,Computer Science
+563,ENG201,3.69,Spring 2024,Humanities
+563,CSE102,3.07,Spring 2024,Computer Science
+926,CSE101,3.79,Fall 2023,Computer Science
+926,MAT101,3.07,Fall 2023,Mathematics
+926,ENG201,4.00,Spring 2024,Humanities
+926,CSE102,3.34,Spring 2024,Computer Science
