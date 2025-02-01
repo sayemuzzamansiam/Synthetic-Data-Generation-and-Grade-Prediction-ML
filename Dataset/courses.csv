@@ -1,0 +1,5 @@
+courseId,title,credit,difficulty,semester,department
+CSE101,Intro to CS,3.0,Medium,Fall 2023,Computer Science
+CSE102,Data Structures,3.0,Hard,Spring 2024,Computer Science
+MAT101,Calculus I,4.0,Hard,Fall 2023,Mathematics
+ENG201,Advanced Writing,2.0,Easy,Spring 2024,Humanities
